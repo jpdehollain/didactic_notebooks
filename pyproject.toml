@@ -1,0 +1,16 @@
+[project]
+name = "didactic-notebooks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "jupyter>=1.1.1",
+    "jupyterlab-rise>=0.43.1",
+    "matplotlib",
+    "numpy",
+    "qutip",
+    "scipy",
+    "tqdm",
+]
